@@ -1,7 +1,7 @@
 # About
 
 A blueprint project for creating a customized docker image for Magnolia CMS. Including helm-chart and pipeline for
-its deployment in k8s. 
+its deployment in k8s. test
 
 ## Magnolia Docker Image bundle
 
