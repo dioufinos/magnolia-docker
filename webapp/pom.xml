@@ -61,7 +61,7 @@
     <dependency>
       <groupId>info.magnolia.dam</groupId>
       <artifactId>magnolia-dam-imaging</artifactId>
-      <version>3.4.0</version>
+      <version>3.4.4</version>
     </dependency>
 
     <!-- Contains the liveness/readiness end point: .rest/status -->
