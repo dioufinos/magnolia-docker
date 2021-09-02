@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <magnoliaBundleVersion>6.2.3</magnoliaBundleVersion>
+    <magnoliaBundleVersion>6.2.7</magnoliaBundleVersion>
     <javaVersion>11</javaVersion>
     <docker-image-name>magnolia-docker</docker-image-name>
     <docker-plugin.version>0.33.0</docker-plugin.version>
