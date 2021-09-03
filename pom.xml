@@ -29,12 +29,6 @@
         <type>pom</type>
         <scope>import</scope>
       </dependency>
-      <dependency>
-        <groupId>info.magnolia.templating</groupId>
-        <artifactId>magnolia-jsonfn</artifactId>
-        <version>${jsonfnVersion}</version>
-      </dependency>
-
     </dependencies>
   </dependencyManagement>
 
