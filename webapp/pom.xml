@@ -24,44 +24,18 @@
     </dependency>
     <!-- Contains dependencies for asset app -->
     <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-api</artifactId>
-      <version>3.0.9</version>
+      <groupId>info.magnolia.bundle</groupId>
+      <artifactId>magnolia-bundled-webapp</artifactId>
+      <type>pom</type>
     </dependency>
     <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-app</artifactId>
-      <version>3.0.9</version>
+      <groupId>info.magnolia.bundle</groupId>
+      <artifactId>magnolia-bundled-webapp</artifactId>
+      <type>war</type>
     </dependency>
     <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-app-compatibility</artifactId>
-      <version>3.0.9</version>
-    </dependency>
-    <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-core</artifactId>
-      <version>3.0.9</version>
-    </dependency>
-    <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-jcr</artifactId>
-      <version>3.0.9</version>
-    </dependency>
-    <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-app-jcr</artifactId>
-      <version>3.0.9</version>
-    </dependency>
-    <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-templating</artifactId>
-      <version>3.0.9</version>
-    </dependency>
-    <dependency>
-      <groupId>info.magnolia.dam</groupId>
-      <artifactId>magnolia-dam-imaging</artifactId>
-      <version>3.4.4</version>
+      <groupId>info.magnolia</groupId>
+      <artifactId>magnolia-module-standard-templating-kit</artifactId>
     </dependency>
 
     <!-- Contains the liveness/readiness end point: .rest/status -->
