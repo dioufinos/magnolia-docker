@@ -26,7 +26,20 @@
     <dependency>
       <groupId>info.magnolia.dam</groupId>
       <artifactId>magnolia-dam-app</artifactId>
-    </dependency>  
+    </dependency>
+    <dependency>
+      <groupId>info.magnolia.rest</groupId>
+      <artifactId>magnolia-rest-integration</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>info.magnolia.rest</groupId>
+      <artifactId>magnolia-rest-services</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>info.magnolia.rest</groupId>
+      <artifactId>magnolia-rest-content-delivery</artifactId>
+    </dependency>
+
 
     <!-- Contains the liveness/readiness end point: .rest/status -->
     <dependency>
