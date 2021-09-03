@@ -39,11 +39,6 @@
       <groupId>info.magnolia.rest</groupId>
       <artifactId>magnolia-rest-content-delivery</artifactId>
     </dependency>
-    <dependency>
-      <groupId>info.magnolia.site</groupId>
-      <artifactId>magnolia-site-app</artifactId>
-    </dependency>
-
 
     <!-- Contains the liveness/readiness end point: .rest/status -->
     <dependency>
