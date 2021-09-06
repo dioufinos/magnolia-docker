@@ -25,6 +25,10 @@
     <!-- Contains dependencies for asset app -->
     <dependency>
       <groupId>info.magnolia.dam</groupId>
+      <artifactId>magnolia-dam-api</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>info.magnolia.dam</groupId>
       <artifactId>magnolia-dam-app</artifactId>
     </dependency>
     <dependency>
