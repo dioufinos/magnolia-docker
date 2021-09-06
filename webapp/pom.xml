@@ -25,6 +25,10 @@
     <!-- Contains dependencies for asset app -->
     <dependency>
       <groupId>info.magnolia.dam</groupId>
+      <artifactId>magnolia-dam-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>info.magnolia.dam</groupId>
       <artifactId>magnolia-dam-api</artifactId>
     </dependency>
     <dependency>
@@ -34,10 +38,6 @@
     <dependency>
       <groupId>info.magnolia.rest</groupId>
       <artifactId>magnolia-rest-integration</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>info.magnolia.rest</groupId>
-      <artifactId>magnolia-rest-services</artifactId>
     </dependency>
     <dependency>
       <groupId>info.magnolia.rest</groupId>
